@@ -1,6 +1,6 @@
 # Yoga Posture Dataset
 
-I have stored the Yoga Posture dataset locally for now, but the dataset can be downloaded from kaggle.com. 
+I have stored the Yoga Posture dataset locally for now, but the dataset can be downloaded from kaggle.com (https://www.kaggle.com/datasets/tr1gg3rtrash/yoga-posture-dataset/data). 
 
 Here is the list of the Yoga postures:
 
